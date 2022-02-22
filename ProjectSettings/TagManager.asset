@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - BG
+  - BG Details
+  - Platfrom
+  - Platfrom Details
+  - Player
+  - Interactables
+  - Enemies
+  - Traps
+  - FG
+  - FG Details
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3153872657
+    locked: 0
+  - name: BG details
+    uniqueID: 3863332929
+    locked: 0
+  - name: Platfrom
+    uniqueID: 1487239579
+    locked: 0
+  - name: Platfrom Details
+    uniqueID: 1999129491
+    locked: 0
+  - name: Player
+    uniqueID: 179312029
+    locked: 0
+  - name: Interactables
+    uniqueID: 1914921383
+    locked: 0
+  - name: Enemies
+    uniqueID: 2480951925
+    locked: 0
+  - name: Traps
+    uniqueID: 1886374703
+    locked: 0
+  - name: FG
+    uniqueID: 3080544561
+    locked: 0
+  - name: FG details
+    uniqueID: 3256024899
+    locked: 0
